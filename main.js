@@ -10,5 +10,5 @@ function addItem() {
 
    items.push(item)
 
-   
+   document.querySelector("#item").value = ""
 }
