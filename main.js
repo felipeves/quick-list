@@ -1,5 +1,5 @@
-function main() {
-  console.log("Hello, World!");
-}
+const items = []
 
-main();
+function addItem() {
+   const itemName = document.querySelector("#item").value
+}
